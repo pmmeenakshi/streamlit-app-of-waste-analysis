@@ -2,7 +2,7 @@ Spatial Analysis of Waste Generation & Participation
 
 An interactive Streamlit dashboard that maps household waste generation and participation across cities, pincodes, and communities. Each community appears on a map, and clicking it opens a summary card with its key metrics and a monthly waste trend.
 
-![Community popup on the map](assets/readme.jpeg)
+![Community popup on the map](assests/readme.jpeg)
 
 Features
 Interactive geospatial maps built with Python and Folium, showing waste generation and participation by city, pincode, and coordinates
