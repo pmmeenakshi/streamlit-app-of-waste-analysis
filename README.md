@@ -1,4 +1,4 @@
-patial Analysis of Waste Generation & Participation
+Spatial Analysis of Waste Generation & Participation
 
 An interactive Streamlit dashboard that maps household waste generation and participation across cities, pincodes, and communities. Each community appears on a map, and clicking it opens a summary card with its key metrics and a monthly waste trend.
 
